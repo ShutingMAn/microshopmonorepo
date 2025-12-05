@@ -1,4 +1,5 @@
-Flask
+flask
 Requests
 Flake8
 pytest
+PyYAML
