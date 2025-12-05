@@ -45,7 +45,7 @@ jobs:
 # ... предыдущие шаги ...
 
     # НОВЫЙ ШАГ: Проверка синтаксиса YAML файлов
-    - name: Lint YAML files
+    - name: Lint YAML fiLes
       # Мы используем готовый Action из магазина GitHub
       uses: ibiqlik/action-yamllint@v3
       with:
